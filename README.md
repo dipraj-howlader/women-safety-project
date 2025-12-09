@@ -2,6 +2,8 @@
 A compact real-time location tracking and emergency alert system built with Raspberry Pi Pico W and NEO-6M GPS module.
 Designed to help women send instant SOS alerts, share live GPS location, and notify family or authorities during dangerous or life-threatening situations.
 
+![Device Prototype while working](https://raw.githubusercontent.com/dipraj-howlader/women-safety-project/refs/heads/main/project%20photo.jpg)
+
 🔥 Key Features
 
 
